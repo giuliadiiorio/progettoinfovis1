@@ -9,5 +9,6 @@ farfalle si muovono su nuove posizioni randomiche. La descrizione delle
 posizioni delle farfalline per ogni lettera dell'alfabeto (delle quattro
 previste) è codificata in un file json. Fai in modo che i movimenti
 delle farfalle avvengano in maniera fluida.
+**************************
 
 
