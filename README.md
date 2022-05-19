@@ -9,6 +9,8 @@ farfalle si muovono su nuove posizioni randomiche. La descrizione delle
 posizioni delle farfalline per ogni lettera dell'alfabeto (delle quattro
 previste) è codificata in un file json. Fai in modo che i movimenti
 delle farfalle avvengano in maniera fluida.
+Nota: rispetto alla consegna è stato aggiunto un alert nel caso in cui 
+la lettera premuta non rientri in quelle associate a una configurazione.
 **************************
 
 
